@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T19:47:36.018Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.2" etag="55qBI-ppiaTvxN2XuJ4k" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T21:05:57.520Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZbQzhQ2Ch2NlgQCdcmPR" version="24.6.2" type="github">
   <diagram name="Page-1" id="i4UUnf9V_T9GmLf23L81">
-    <mxGraphModel>
+    <mxGraphModel dx="776" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s1lOFZtwAi8n3WWhYoB-1" target="8s1lOFZtwAi8n3WWhYoB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-1" value="input name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s1lOFZtwAi8n3WWhYoB-2" target="8s1lOFZtwAi8n3WWhYoB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-2" value="input bid" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s1lOFZtwAi8n3WWhYoB-3" target="8s1lOFZtwAi8n3WWhYoB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-3" value="dictionary function stores name &amp;amp; bid" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s1lOFZtwAi8n3WWhYoB-4" target="8s1lOFZtwAi8n3WWhYoB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-4" value="highest bid is selected" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-5" value="name is given" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s1lOFZtwAi8n3WWhYoB-16" target="8s1lOFZtwAi8n3WWhYoB-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="670.1176470588236" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s1lOFZtwAi8n3WWhYoB-6" target="8s1lOFZtwAi8n3WWhYoB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-6" value="determine if other bidders" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s1lOFZtwAi8n3WWhYoB-7" target="8s1lOFZtwAi8n3WWhYoB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-7" value="repeat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s1lOFZtwAi8n3WWhYoB-6" target="8s1lOFZtwAi8n3WWhYoB-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="530" as="targetPoint" />
+            <mxPoint x="280" y="670" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-16" value="yes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8s1lOFZtwAi8n3WWhYoB-18" value="no" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="590" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
